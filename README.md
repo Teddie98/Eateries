@@ -22,11 +22,11 @@ code . or atom . depending on the text editor of your choice.
 ### Technologies 
 
 Used
-*HTML5
-*CSS
-*Bootstrap
-*Javascript
-*Markdown
+HTML5
+CSS
+Bootstrap
+Javascript
+
 
 ### Known Bugs
 
