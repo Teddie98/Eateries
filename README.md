@@ -38,5 +38,5 @@ If you have any question or contributions that would better this app, please ema
 
 License
 
-MIT License:
+MIT License: {https://github.com/Teddie98/Eateries/new/master}
 Copyright (c) 2020 Machoka Teddy
